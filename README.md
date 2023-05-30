@@ -17,8 +17,3 @@ Step 5:
 You will see the window.
 
  
-
-
-
-[ReadMe.docx](https://github.com/Sakchi123/Car-Rental-Database/files/11456956/ReadMe.docx)
-
